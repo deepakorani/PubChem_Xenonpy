@@ -1,5 +1,8 @@
 # PubChem_Xenonpy
 Repository for the CHE68000 report. Includes:
-The code
-Video showing the evolution
-PubChem Dataset utilized
+
+a)The code
+
+b) Video showing the evolution
+
+c) PubChem Dataset utilized
